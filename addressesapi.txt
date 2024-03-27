@@ -30,3 +30,5 @@
 5.10.244.14:2087#North America San Jose  
 5.10.244.14:2053#North America San Jose  
 141.11.202.134:2096#North America San Jose
+1.1.1.1:80#IRAN
+1.1.1.1:8443#IRANCT
