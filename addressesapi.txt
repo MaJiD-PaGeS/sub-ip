@@ -21,3 +21,12 @@
 118.216.16.203:10025#KR
 211.44.160.106:10096#KR
 64.64.235.135:49121#US
+5.182.85.101:2053#North America San Jose  
+120.24.176.79:443#Asia Pacific Hong Kong  
+74.48.31.121:443#North America Los Angeles  
+34.29.228.169:443#North America Chicago  
+78.142.195.147:443#Europe Amsterdam  
+5.10.247.71:2053#North America San Jose  
+5.10.244.14:2087#North America San Jose  
+5.10.244.14:2053#North America San Jose  
+141.11.202.134:2096#North America San Jose
